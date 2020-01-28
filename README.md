@@ -24,10 +24,10 @@
       <button class="button"onclick="window.location.href = 'index.html';">Home</button>
      <button class="button"onclick="window.location.href = 'me.html';">About Me</button>
      <button class="button"onclick="window.location.href = 'portfolio.html';">Portfolio</button></center>
-     <h1 style="background-color: #FFFF00;font-family:courier;"align="center"style="font-family:courier;">Jamie Santosa </h1>
-    <p align="center"style="font-family:courier;"> Hi my name is Jamie!</p>
-    <center><img src="images/home1.gif"></center>
+     <h1 style="background-color: #FFFF00;font-family:courier;"align="center"style="font-family:courier;">Erin Yuen </h1>
+    <p align="center"style="font-family:courier;"> Welcome to my website!</p>
+    <center><img src="https://media0.giphy.com/media/12zyJFTYPuMQI8/giphy.gif"></center>
     <body style="background-color:PaleGreen;">
-      <p align="center"style="font-family:courier;">Don't worry, that is neither me nor my house</p>
+  
   </body>
 </html>
