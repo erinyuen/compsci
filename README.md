@@ -2,19 +2,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-     <style type="text/css">
-    .button {
         background-color: #d9bba5; 
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin:30px;
-  font: courier;
-    }
 </style>
     <meta charset="utf-8">
     <title>Home</title>
