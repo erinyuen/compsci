@@ -1,24 +1,33 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta charset="utf-8">
-<title>Erin's Website</title>
-<meta name="description" content="">
-<meta name="author" content="">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="">
-<!--[if lt IE 9]>
-<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
-<![endif]-->
-<link rel="shortcut icon" href="">
-</head>
-<body>
 
-<!-- Place your content here -->
-
-<!-- SCRIPTS -->
-<!-- Example: <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> -->
-</body>
+<!doctype html>
+<html lang="en">
+  <head>
+     <style type="text/css">
+    .button {
+        background-color: #AEB8F2; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin:30px;
+  font: courier;
+    }
+</style>
+    <meta charset="utf-8">
+    <title>Home</title>
+  </head>
+  <body>
+     <center>
+      <button class="button"onclick="window.location.href = 'index.html';">Home</button>
+     <button class="button"onclick="window.location.href = 'me.html';">About Me</button>
+     <button class="button"onclick="window.location.href = 'portfolio.html';">Portfolio</button></center>
+     <h1 style="background-color: #FFFF00;font-family:courier;"align="center"style="font-family:courier;">Jamie Santosa </h1>
+    <p align="center"style="font-family:courier;"> Hi my name is Jamie!</p>
+    <center><img src="images/home1.gif"></center>
+    <body style="background-color:PaleGreen;">
+      <p align="center"style="font-family:courier;">Don't worry, that is neither me nor my house</p>
+  </body>
 </html>
