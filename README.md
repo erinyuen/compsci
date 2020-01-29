@@ -1,21 +1,24 @@
-
 <!doctype html>
 <html lang="en">
   <head>
-        background-color: #d9bba5; 
-</style>
+     
     <meta charset="utf-8">
-    <title>Home</title>
+    <title><h1>Home</h1></title>
+  <link rel="stylesheet" href="styleindex.css">
   </head>
-  <body>
-     <center>
-      <button class="button"onclick="window.location.href = 'index.html';">Home</button>
-     <button class="button"onclick="window.location.href = 'me.html';">About Me</button>
-     <button class="button"onclick="window.location.href = 'portfolio.html';">Portfolio</button></center>
-     <h1 style="background-color: #FFFF00;font-family:courier;"align="center"style="font-family:courier;">Erin Yuen </h1>
-    <p align="center"style="font-family:courier;"> Welcome to my website!</p>
-    <center><img src="https://data.whicdn.com/images/294814221/original.gif"></center>
-    <body style="background-color:PaleGreen;">
-  
-  </body>
+  <video controls autoplay muted loop>
+  <source src="videos/video2.mp4" type="video/mp4">   
+</video>
+
+<div1 class=a>
+    <a style="color:black;font-size:30px;" href="index.html">Home</a>
+    <a style="color:black;font-size:30px;" href="portfolio.html">Portfolio</a>
+    <a style="color:black;font-size:30px;" href="About_me.html">About Me</a>
+    <a style="color:black;font-size:30px;" href="specialpage.html">:)</a>
+    </div1>
+    
+
+    <h1><center>Home</center></h1> 
+    <h2 class=fade in>thththth</h2>
+    <h3 class=fade in>dhtrdtrhrtdhrtdhe</h3>
 </html>
